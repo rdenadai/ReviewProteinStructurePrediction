@@ -12,6 +12,10 @@ At the end of the day, the search is the simple process of given a amino acid  s
 
 Proteins are a important part of every organism, they, for example, help in the transport of molecules between cells. Given their importance, as much proteins we know, the best we could find, for example,  better treatments to diseases.
 
+In this sense i leave here the link about the excellent project done by my classmates, where they investigate the relationship between human proteins that interact with SARS-COV-2.
+
+[**Network Analysis to Find Relations Between Symptoms of Human Diseases Associated with the Human Proteins that Interact with SARS-COV-2 and the COVID-19 Symptoms**](https://gitlab.com/mario-balan/mo826_trabalho_final)
+
 ## **Research**
 
 I start the research choosing terms to search for and what bases i'll apply those terms.
