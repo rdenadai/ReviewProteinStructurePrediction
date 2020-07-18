@@ -1,8 +1,8 @@
 > DISCLAIMER: All images on this document are not mine, and have their rights reserved by their owners.
 
-In this post i'll present the study i made for a state of art project for my class in this semester, where the subject of research was the field of protein structure prediction.
+In this post i'll present the study I made for a state of art project for my class in this semester, where the subject of research was the field of protein structure prediction.
 
-Here is the Zotero link with the papers that i found, and other links: https://www.zotero.org/rdenadai/collections/6WDHP79S
+Here is the Zotero link with the papers that I found, and other links: https://www.zotero.org/rdenadai/collections/6WDHP79S
 
 Protein Structure Prediction is another biggest challenge that mankind is looking to solve. If solved or at least partially solved it could revolutionize medicine and drug industry.
 
@@ -12,7 +12,7 @@ At the end of the day, the search is the simple process of given a amino acid  s
 
 Proteins are a important part of every organism, they, for example, help in the transport of molecules between cells. Given their importance, as much proteins we know, the best we could find, for example,  better treatments to diseases.
 
-In this sense i leave here the link about the excellent project done by my classmates, where they investigate the relationship between human proteins that interact with SARS-COV-2.
+In this sense I leave here the link about the excellent project done by my classmates, where they investigate the relationship between human proteins that interact with SARS-COV-2.
 
 [**Network Analysis to Find Relations Between Symptoms of Human Diseases Associated with the Human Proteins that Interact with SARS-COV-2 and the COVID-19 Symptoms**](https://gitlab.com/mario-balan/mo826_trabalho_final)
 
@@ -30,14 +30,14 @@ Not an easy task to find terms to search if you are not familiar with the theme,
 
 And decided to search in [Google Scholar][2] and [PubMed][3].
 
-Search throught does bases are easy and one could easily apply some filters, and that's was done. I limit my research filtering Full Papers from 2016 to 2020, getting the first 20 papers from best match results (the sites gives you the option to sort by date or best match).
+Search throught does bases are easy and one could easily apply some filters, and that's was done. I'm limit my research filtering Full Papers from 2016 to 2020, getting the first 20 papers from best match results (the sites gives you the option to sort by date or best match).
 
-After collect all papers, a new filter was made, preprocessing the papers by reading their abstract and seeing if there is some relationship with the theme, and the selected the most recently or the ones that have some interesting content. At the end i ended up with 22 papers to read.
+After collect all papers, a new filter was made, preprocessing the papers by reading their abstract and seeing if there is some relationship with the theme, and the selected the most recently or the ones that have some interesting content. At the end I ended up with 22 papers to read.
 
 ![Searched papers distribution over years][4]
 
-It's interesting to note that the number of papers in the research was getting high, but some strange down in 2019, so i thought why not to sum all papers from 2000 to 2020 given the terms.
-Since PubMed gives a nice csv file to download, i joined the values for each of the terms over the years.
+It's interesting to note that the number of papers in the research was getting high, but some strange down in 2019, so I thought why not to sum all papers from 2000 to 2020 given the terms.
+Since PubMed gives a nice csv file to download, I joined the values for each of the terms over the years.
 We could see a nice linear trend over the years.
 
 ![PubMed searched paper distribution over years][5]
@@ -118,7 +118,7 @@ Homology modeling in more dependent of protein databases than Threading, which u
 
 Both predicting approuchs leaves us the need to have databases with protein strutures.
 
-Over the years (the field is not new, but not too old either), a diverse number of databases were created. Bellow, is a list of databases identified in the papers i read (this is not a extensive list).
+Over the years (the field is not new, but not too old either), a diverse number of databases were created. Bellow, is a list of databases identified in the papers I read (this is not a extensive list).
 
  - [DisProt](https://disprot.org): a database of intrinsically disordered proteins.
  - [HOMSTRAD](https://mizuguchilab.org/homstrad/): a database of protein structure alignments for homologous families
