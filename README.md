@@ -2,6 +2,8 @@
 
 In this post i'll present the study i made for a state of art project for my class in this semester, where the subject of research was the field of protein structure prediction.
 
+Here is the Zotero link with the papers that i found, and other links: https://www.zotero.org/rdenadai/collections/6WDHP79S
+
 Protein Structure Prediction is another biggest challenge that mankind is looking to solve. If solved or at least partially solved it could revolutionize medicine and drug industry.
 
 At the end of the day, the search is the simple process of given a amino acid  sequence, one must predict the 3D structure of the protein given physical restrictions (lower energy cost given by [Gibbs Free Energy][1]).
